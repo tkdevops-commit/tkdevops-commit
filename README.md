@@ -4,6 +4,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkdevops-commit&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdevops-commit&layout=compact&theme=radical)
+
 
 <!--
 **tkdevops-commit/tkdevops-commit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
