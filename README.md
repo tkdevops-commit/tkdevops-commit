@@ -1,7 +1,5 @@
 ## Hi there, I'm Tristan 👋
 
-![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkdevops-commit&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkdevops-commit&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdevops-commit&layout=compact&theme=radical)
