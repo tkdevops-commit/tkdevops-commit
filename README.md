@@ -4,7 +4,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdevops-commit&layout=compact&theme=radical)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=tkdevops-commit&theme=radical)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=your-username)
 
