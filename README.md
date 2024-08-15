@@ -6,7 +6,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdevops-commit&layout=compact&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=tkdevops-commit&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username)
+
 
 
 <!--
