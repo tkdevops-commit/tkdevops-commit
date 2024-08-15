@@ -1,4 +1,4 @@
-## Hi there, I'm Tristan 👋
+## Hi there, I'm Tristan, a passionate software developer with a strong focus on client-side applications and user experience (UX). With a robust background in business and application development, I enjoy solving complex problems, streamlining processes, and creating applications that are not only efficient but also intuitive and user-friendly.” 👋
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkdevops-commit&theme=radical)
 
