@@ -4,7 +4,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdevops-commit&layout=compact&theme=radical)
 
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=your-username)
+
 
 ## Connect with Me
 
@@ -12,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-kahika-60b883235/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itstristank/)
 
-![iCloud](https://img.shields.io/badge/iCloud-tkdevops1@icloud.com-blue)
 
 
 ### Languages and Tools:
