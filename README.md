@@ -1,4 +1,4 @@
-Hi there, I’m Tristan, a software development enthusiast with a passion for creating client-side applications and enhancing user experiences.
+Hi there, I’m Tristan, a software development hobbyist who enjoys creating client-side applications and enhancing user experiences for fun. I find it exciting to build technological solutions that support business objectives.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkdevops-commit&theme=radical)
 
