@@ -1,5 +1,5 @@
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkdevops-commit&theme=radical
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkdevops-commit&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdevops-commit&layout=compact&theme=radical)
 
