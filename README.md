@@ -1,9 +1,8 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Imagination+is+more+important+than+knowledge.;For+knowledge+is+limited%2C+whereas+imagination+embraces+the+entire+world.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=The+smart+way+to+keep+people+passive+and+obedient+is+to+strictly+limit+the+spectrum+of+acceptable+opinion%2C;but+allow+very+lively+debate+within+that+spectrum.">
 </p>
 <p align="center">
-  <strong>— Albert Einstein</strong>
+  <strong>— Noam Chomsky</strong>
 </p>
 
 
