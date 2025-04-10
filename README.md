@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C8FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=The+smart+way+to+keep+people+passive+and+obedient;is+to+strictly+limit+the+spectrum+of+acceptable+opinion%2C;but+allow+very+lively+debate+within+that+spectrum.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=The+smart+way+to+keep+people+passive+and+obedient;is+to+strictly+limit+the+spectrum+of+acceptable+opinion%2C;but+allow+very+lively+debate+within+that+spectrum.">
 </p>
 <p align="center">
   <strong>— Noam Chomsky</strong>
