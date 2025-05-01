@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=It+is+the+mark+of+an+educated+mind+to+be+able+to+entertain+a+thought;without+accepting+it.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=The+greatest+enemy+of+knowledge+is+not+ignorance;it+is+the+illusion+of+knowledge.">
 </p>
 <p align="center">
-  <strong>— Aristotle</strong>
+  <strong>— Stephen Hawking</strong>
 </p>
 
 
