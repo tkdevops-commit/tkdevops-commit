@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=The+greatest+enemy+of+knowledge+is+not+ignorance;it+is+the+illusion+of+knowledge.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=The+mass+of+men+lead+lives+of+quiet+desperation.">
 </p>
 <p align="center">
-  <strong>— Stephen Hawking</strong>
+  <strong>— Henry David Thoreau</strong>
 </p>
 
 
