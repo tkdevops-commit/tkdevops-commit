@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=F8F8FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Knowledge+is+realizing+that+a+tomato+is+technically+a+fruit.;Wisdom+is+realizing+that+you+probably+shouldn’t+put+it+in+a+fruit+salad.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=F8F8FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Knowledge+is+knowing+that+a+tomato+is+a+fruit.;Wisdom+is+knowing+not+to+put+it+in+a+fruit+salad.">
 </p>
 <p align="center">
   <strong>— Brian O'Driscoll</strong>
