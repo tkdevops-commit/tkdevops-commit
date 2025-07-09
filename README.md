@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=F8F8FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=The+mass+of+men+lead+lives+of+quiet+desperation.;What+is+called+resignation+is+confirmed+desperation.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=F8F8FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Understanding+that+a+tomato+is+a+fruit+is+knowledge.;Choosing+not+to+include+it+in+a+fruit+salad+is+wisdom.">
 </p>
 <p align="center">
-  <strong>— Henry David Thoreau</strong>
+  <strong>— Brian O'Driscoll</strong>
 </p>
 
 
